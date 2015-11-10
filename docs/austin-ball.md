@@ -5,3 +5,5 @@
 **Food:** Tacos
 
 **Hobby:** Climbing
+
+**Favorite Color:** Spam
